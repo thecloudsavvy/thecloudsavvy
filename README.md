@@ -1,7 +1,7 @@
 Welcome to My GitHub Profile 👋
 
 About Me
-I’m a passionate DevOps Engineer with a background in medical physiotherapy, bringing a unique perspective to technology and systems management. I thrive on automating workflows, enhancing CI/CD pipelines, and ensuring robust infrastructure for seamless application deployments.
+I’m a passionate DevOps Engineer with 4yrs experience and a background in medical physiotherapy, bringing a unique perspective to technology and systems management. I thrive on automating workflows, enhancing CI/CD pipelines, and ensuring robust infrastructure for seamless application deployments.
 
 🌱 I’m currently honing my skills in Kubernetes, Terraform, and AWS.
 💬 Ask me about CI/CD, Containerization, and Infrastructure as Code.
