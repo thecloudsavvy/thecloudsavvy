@@ -17,6 +17,7 @@ Tech Stack
 ⭐️ Version Control: Git, GitHub, GitLab
 
 Get in Touch
-📫 Email: Taiwoabatan.co@gmail.com
+📫 Email: Thecloudsavvy@gmail.com
 💼 LinkedIn: www.linkedin.com/in/thecloudsavvy
+
 
